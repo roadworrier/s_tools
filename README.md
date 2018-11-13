@@ -8,7 +8,7 @@ List the date, time, duration of all skype calls stored in the local computer's 
 Tested only with Windows Skype 7.40 so far.
 
 It logs Skype calls, for example:
-
+[[[
 #Timestamp: 2018-08-01 19:10:41 From live:someones_skypename :
 #    <name>Someone's Actual Name</name>
 #    <name>My Name</name>
@@ -16,3 +16,4 @@ It logs Skype calls, for example:
 #    <name>Someone's Actual Name</name>
 #    <name>my_skype_username</name>
 #Skype call duration: 0:03:13
+]]]
