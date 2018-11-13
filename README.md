@@ -7,6 +7,8 @@ List the date, time, duration of all skype calls stored in the local computer's 
 
 Tested only with Windows Skype 7.40 so far.
 
+Fails on newer versions of Skype: Microsoft has changed the schema and put things in Microsoft/Skype for Desktop/main.db and these queries won't work there.
+
 It logs Skype calls, for example:
 <pre>
 Timestamp: 2018-08-01 19:10:41 From live:someones_skypename :
