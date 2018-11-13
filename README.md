@@ -9,11 +9,11 @@ Tested only with Windows Skype 7.40 so far.
 
 It logs Skype calls, for example:
 <pre>
-#Timestamp: 2018-08-01 19:10:41 From live:someones_skypename :
-#    <name>Someone's Actual Name</name>
-#    <name>My Name</name>
-#Timestamp: 2018-08-01 19:13:54 From my_skype_username :
-#    <name>Someone's Actual Name</name>
-#    <name>my_skype_username</name>
-#Skype call duration: 0:03:13
+Timestamp: 2018-08-01 19:10:41 From live:someones_skypename :
+    <name>Someone's Actual Name</name>
+    <name>My Name</name>
+Timestamp: 2018-08-01 19:13:54 From my_skype_username :
+    <name>Someone's Actual Name</name>
+    <name>my_skype_username</name>
+Skype call duration: 0:03:13
 </pre>
